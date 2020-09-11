@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-08T17:48:51 CDT" name="Suite" finished-at="2020-08-08T17:49:13 CDT" duration-ms="22481">
+    <groups>
+    </groups>
+    <test started-at="2020-08-08T17:48:51 CDT" name="Test" finished-at="2020-08-08T17:49:13 CDT" duration-ms="22481">
+      <class name="test.Test_Web_Table">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Web_Table@7b02881e]" started-at="2020-08-08T17:48:46 CDT" name="setup" finished-at="2020-08-08T17:48:51 CDT" duration-ms="4599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="get()[pri:0, instance:test.Test_Web_Table@7b02881e]" started-at="2020-08-08T17:48:51 CDT" name="get" finished-at="2020-08-08T17:48:59 CDT" duration-ms="7974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method signature="read_Web_Table()[pri:0, instance:test.Test_Web_Table@7b02881e]" started-at="2020-08-08T17:48:59 CDT" name="read_Web_Table" finished-at="2020-08-08T17:49:13 CDT" duration-ms="14063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read_Web_Table -->
+        <test-method is-config="true" signature="tearDowm()[pri:0, instance:test.Test_Web_Table@7b02881e]" started-at="2020-08-08T17:49:13 CDT" name="tearDowm" finished-at="2020-08-08T17:49:13 CDT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowm -->
+      </class> <!-- test.Test_Web_Table -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
